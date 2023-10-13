@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allieskahen
 - 👀 I’m interested in cancer epidemiology, toxic exposures, maternal and child health, and statistical programming.
 - 🌱 I’m currently learning Python. 
-- 💞️ I’m looking to collaborate on statistical programming efficiency for epidemiological research. 
+- 💞️ I’m looking to collaborate on efficient statistical programming strategies for epidemiological research. 
 - 📫 How to reach me: connect with me on LinkedIn and send me a direct message.
 
 <!---
